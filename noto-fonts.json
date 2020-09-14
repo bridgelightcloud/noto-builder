@@ -1,0 +1,13 @@
+[
+  {
+    "owner": "googlefonts", 
+    "repo": "noto-fonts", 
+    "fonts": [
+      "hinted/NotoSansMono/", 
+      "phaseIII_only/hinted/ttf/NotoSansDisplay/", 
+      "phaseIII_only/hinted/ttf/NotoSerifDisplay/", 
+      "phaseIII_only/hinted/ttf/NotoMono/"
+    ]
+  }
+]
+
