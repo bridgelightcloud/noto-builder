@@ -25,3 +25,9 @@ Weights are 100 - 900, in increments of 100.
 Convenience files which import all of the weights for a particular stretch, are provided in the form `fontname-stretch.css`.
 
 Finally, a CSS file which import all of the `fontname-stretch.css` files is included, as `fontname.css`.
+
+## Building an running
+
+To run the typescript compiler, run `npm run build`.
+
+To build the font packages, run `npm run run`.
